@@ -1,0 +1,18 @@
+{
+  "name": "namaste-reactjs",
+  "version": "1.0.0",
+  "description": "This is a ReactDev",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "Aditya",
+    "Pal"
+  ],
+  "author": "\"ISC\"",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.10.3"
+  }
+}

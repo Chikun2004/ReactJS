@@ -20,6 +20,7 @@ const container = React.createElement(
   [heading, heading2]
 );
 console.log(heading);
+
 const root = ReactDOM.createRoot(document.getElementById("root"));
 //passing a react element inside the root
 
