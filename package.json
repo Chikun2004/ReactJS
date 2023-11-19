@@ -2,7 +2,6 @@
   "name": "namaste-reactjs",
   "version": "1.0.0",
   "description": "This is a ReactDev",
-  "main": "App.js",
   "scripts": {
     "test": "jest"
   },
@@ -13,6 +12,14 @@
   "author": "\"ISC\"",
   "license": "ISC",
   "devDependencies": {
-    "parcel": "^2.10.3"
-  }
+    "parcel": "^2.10.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserlist": [
+    "Last 2 Chrome version"
+  ]
 }
